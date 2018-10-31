@@ -8,7 +8,7 @@ People have asked how I created the interaction in the video below, well here it
 ## How its done:
 
 1. All electronics were removed from the Air Wick except the motor
-)
+
 2. Wire a Sonoff SV (with 5v power supply) directly to the motor of the air wick(do not plug supply in unto firmware is flashed)
 
 3. Download the sonoff firmware from this repo
